@@ -1,0 +1,382 @@
+User ID: user_1
+{
+  "keywords": {
+    "antarctica": 0.6899805059828324,
+    "glaciers": 0.6899805059828324,
+    "climate": 0.6899805059828324,
+    "unesco": 0.6899805059828324,
+    "ice": 0.6899805059828324,
+    "versailles": 0.5348002311997617,
+    "monarchy": 0.5348002311997617,
+    "nobility": 0.5348002311997617,
+    "rooms": 0.5348002311997617,
+    "gardens": 1.0,
+    "kyoto": 0.4651997688002384,
+    "temples": 0.4651997688002384,
+    "heritage": 0.4651997688002384,
+    "elegance": 0.4651997688002384,
+    "pompeii": 0.3046667169274845,
+    "vesuvius": 0.3046667169274845,
+    "excavations": 0.3046667169274845,
+    "antiquity": 0.3046667169274845,
+    "frescoes": 0.3046667169274845
+  },
+  "topics": {
+    "ice": 1.0,
+    "mirrors": 0.5167297979797979,
+    "kyoto": 0.6742216117216118
+  },
+  "entities": {
+    "First, Earth, Antarctica": 1.0,
+    "UNESCO, Aurora Australis": 1.0,
+    "Antarctica": 1.0,
+    "Versailles, Louis XIV": 0.775094696969697,
+    "Hall, Sun, Palace, UNESCO": 0.775094696969697,
+    "Versailles, French, Paris, Mirrors": 0.775094696969697,
+    "Kyoto": 0.6742216117216117,
+    "Silver Pavilion, Golden Pavilion": 0.6742216117216117,
+    "Japan, Kyoto": 0.6742216117216117,
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 0.4415584415584416,
+    "UNESCO": 0.4415584415584416
+  }
+}
+==================================================
+User ID: user_2
+{
+  "keywords": {
+    "kyoto": 0.6609861191119218,
+    "temples": 0.6609861191119218,
+    "heritage": 0.6609861191119218,
+    "gardens": 1.0,
+    "elegance": 0.6609861191119218,
+    "versailles": 0.33901388088807827,
+    "monarchy": 0.33901388088807827,
+    "nobility": 0.33901388088807827,
+    "rooms": 0.33901388088807827
+  },
+  "topics": {
+    "kyoto": 1.0,
+    "ice": 0.4528329532862626,
+    "mirrors": 0.3419273830274133
+  },
+  "entities": {
+    "Kyoto": 1.0,
+    "Silver Pavilion, Golden Pavilion": 1.0,
+    "Japan, Kyoto": 1.0,
+    "First, Earth, Antarctica": 0.45283295328626244,
+    "UNESCO, Aurora Australis": 0.45283295328626244,
+    "Antarctica": 0.45283295328626244,
+    "Versailles, Louis XIV": 0.5128910745411199,
+    "Hall, Sun, Palace, UNESCO": 0.5128910745411199,
+    "Versailles, French, Paris, Mirrors": 0.5128910745411199
+  }
+}
+==================================================
+User ID: user_3
+{
+  "keywords": {
+    "antarctica": 1.0,
+    "glaciers": 1.0,
+    "climate": 1.0,
+    "unesco": 1.0,
+    "ice": 1.0,
+    "pompeii": 0.32432432432432434,
+    "vesuvius": 0.32432432432432434,
+    "excavations": 0.32432432432432434,
+    "antiquity": 0.32432432432432434,
+    "frescoes": 0.32432432432432434
+  },
+  "topics": {
+    "ice": 1.0
+  },
+  "entities": {
+    "First, Earth, Antarctica": 1.0,
+    "UNESCO, Aurora Australis": 1.0,
+    "Antarctica": 1.0,
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 0.32432432432432434,
+    "UNESCO": 0.32432432432432434
+  }
+}
+==================================================
+User ID: user_1
+{
+  "keywords": {
+    "antarctica": 1.0,
+    "glaciers": 1.0,
+    "climate": 1.0,
+    "unesco": 1.0,
+    "ice": 1.0,
+    "versailles": 0.908467422843577,
+    "monarchy": 0.908467422843577,
+    "nobility": 0.908467422843577,
+    "rooms": 0.908467422843577,
+    "gardens": 0.908467422843577
+  },
+  "topics": {
+    "ice": 1.0,
+    "mirrors": 0.6056449485623846,
+    "versailles": 0.30282247428119224
+  },
+  "entities": {
+    "First, Earth, Antarctica": 1.0,
+    "UNESCO, Aurora Australis": 1.0,
+    "Antarctica": 1.0,
+    "Versailles, Louis XIV": 0.908467422843577,
+    "Hall, Sun, Palace, UNESCO": 0.908467422843577,
+    "Versailles, French, Paris, Mirrors": 0.908467422843577
+  }
+}
+==================================================
+User ID: user_2
+{
+  "keywords": {
+    "kyoto": 0.38569134632126756,
+    "temples": 0.38569134632126756,
+    "heritage": 0.38569134632126756,
+    "gardens": 0.5465766410648301,
+    "elegance": 0.38569134632126756,
+    "antarctica": 1.0,
+    "glaciers": 1.0,
+    "climate": 1.0,
+    "unesco": 1.0,
+    "ice": 1.0
+  },
+  "topics": {
+    "kyoto": 0.38569134632126745,
+    "ice": 1.0
+  },
+  "entities": {
+    "Kyoto": 0.38569134632126756,
+    "Silver Pavilion, Golden Pavilion": 0.38569134632126756,
+    "Japan, Kyoto": 0.38569134632126756,
+    "First, Earth, Antarctica": 1.0,
+    "UNESCO, Aurora Australis": 1.0,
+    "Antarctica": 1.0
+  }
+}
+==================================================
+User ID: user_3
+{
+  "keywords": {
+    "kyoto": 0.6961875443997159,
+    "temples": 0.6961875443997159,
+    "heritage": 0.6961875443997159,
+    "gardens": 1.0,
+    "elegance": 0.6961875443997159,
+    "versailles": 0.30381245560028414,
+    "monarchy": 0.30381245560028414,
+    "nobility": 0.30381245560028414,
+    "rooms": 0.30381245560028414
+  },
+  "topics": {
+    "kyoto": 1.0
+  },
+  "entities": {
+    "Kyoto": 1.0,
+    "Silver Pavilion, Golden Pavilion": 1.0,
+    "Japan, Kyoto": 1.0,
+    "Versailles, Louis XIV": 0.43639455782312925,
+    "Hall, Sun, Palace, UNESCO": 0.43639455782312925,
+    "Versailles, French, Paris, Mirrors": 0.43639455782312925
+  }
+}
+==================================================
+User ID: user_1
+{
+  "keywords": {
+    "versailles": 0.6074766355140188,
+    "monarchy": 0.6074766355140188,
+    "nobility": 0.6074766355140188,
+    "rooms": 0.6074766355140188,
+    "gardens": 1.0,
+    "kyoto": 0.3925233644859813,
+    "temples": 0.3925233644859813,
+    "heritage": 0.3925233644859813,
+    "elegance": 0.3925233644859813
+  },
+  "topics": {
+    "mirrors": 1.0,
+    "versailles": 0.5,
+    "ice": 0.3841463414634146,
+    "kyoto": 0.969230769230769
+  },
+  "entities": {
+    "Versailles, Louis XIV": 1.0,
+    "Hall, Sun, Palace, UNESCO": 1.0,
+    "Versailles, French, Paris, Mirrors": 1.0,
+    "Kyoto": 0.6461538461538461,
+    "Silver Pavilion, Golden Pavilion": 0.6461538461538461,
+    "Japan, Kyoto": 0.6461538461538461
+  }
+}
+==================================================
+User ID: user_2
+{
+  "keywords": {
+    "pompeii": 1.0,
+    "vesuvius": 1.0,
+    "excavations": 1.0,
+    "antiquity": 1.0,
+    "frescoes": 1.0,
+    "versailles": 0.35683942225998294,
+    "monarchy": 0.35683942225998294,
+    "nobility": 0.35683942225998294,
+    "rooms": 0.35683942225998294,
+    "gardens": 0.35683942225998294,
+    "antarctica": 0.30194104960460094,
+    "glaciers": 0.30194104960460094,
+    "climate": 0.30194104960460094,
+    "unesco": 0.30194104960460094,
+    "ice": 0.30194104960460094
+  },
+  "topics": {
+    "roman": 1.0,
+    "pompeii": 0.5000000000000001,
+    "mirrors": 0.356839422259983,
+    "ice": 0.4529115744069015
+  },
+  "entities": {
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 1.0,
+    "UNESCO": 1.0,
+    "Versailles, Louis XIV": 0.35683942225998294,
+    "Hall, Sun, Palace, UNESCO": 0.35683942225998294,
+    "Versailles, French, Paris, Mirrors": 0.35683942225998294,
+    "First, Earth, Antarctica": 0.30194104960460094,
+    "UNESCO, Aurora Australis": 0.30194104960460094,
+    "Antarctica": 0.30194104960460094
+  }
+}
+==================================================
+User ID: user_3
+{
+  "keywords": {
+    "gardens": 1.0,
+    "versailles": 0.7193190229459657,
+    "monarchy": 0.7193190229459657,
+    "nobility": 0.7193190229459657,
+    "rooms": 0.7193190229459657
+  },
+  "topics": {
+    "kyoto": 0.5853056184400081,
+    "mirrors": 1.0,
+    "versailles": 0.5,
+    "ice": 0.3803251697880222
+  },
+  "entities": {
+    "Kyoto": 0.3902037456266722,
+    "Silver Pavilion, Golden Pavilion": 0.3902037456266722,
+    "Japan, Kyoto": 0.3902037456266722,
+    "Versailles, Louis XIV": 1.0,
+    "Hall, Sun, Palace, UNESCO": 1.0,
+    "Versailles, French, Paris, Mirrors": 1.0
+  }
+}
+==================================================
+User ID: user_1
+{
+  "keywords": {
+    "kyoto": 0.4652128764278297,
+    "temples": 0.4652128764278297,
+    "heritage": 0.4652128764278297,
+    "gardens": 1.0,
+    "elegance": 0.4652128764278297,
+    "versailles": 0.5347871235721704,
+    "monarchy": 0.5347871235721704,
+    "nobility": 0.5347871235721704,
+    "rooms": 0.5347871235721704
+  },
+  "topics": {
+    "kyoto": 1.0,
+    "mirrors": 0.7663690476190477,
+    "versailles": 0.38318452380952384,
+    "roman": 0.3333333333333333
+  },
+  "entities": {
+    "Kyoto": 0.8699029126213592,
+    "Silver Pavilion, Golden Pavilion": 0.8699029126213592,
+    "Japan, Kyoto": 0.8699029126213592,
+    "Versailles, Louis XIV": 1.0,
+    "Hall, Sun, Palace, UNESCO": 1.0,
+    "Versailles, French, Paris, Mirrors": 1.0,
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 0.4349514563106796,
+    "UNESCO": 0.4349514563106796
+  }
+}
+==================================================
+User ID: user_2
+{
+  "keywords": {
+    "versailles": 0.589242053789731,
+    "monarchy": 0.589242053789731,
+    "nobility": 0.589242053789731,
+    "rooms": 0.589242053789731,
+    "gardens": 1.0,
+    "kyoto": 0.41075794621026895,
+    "temples": 0.41075794621026895,
+    "heritage": 0.41075794621026895,
+    "elegance": 0.41075794621026895
+  },
+  "topics": {
+    "mirrors": 0.9563492063492064,
+    "versailles": 0.47817460317460314,
+    "roman": 0.4666666666666667,
+    "kyoto": 1.0
+  },
+  "entities": {
+    "Versailles, Louis XIV": 1.0,
+    "Hall, Sun, Palace, UNESCO": 1.0,
+    "Versailles, French, Paris, Mirrors": 1.0,
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 0.4879668049792531,
+    "UNESCO": 0.4879668049792531,
+    "Kyoto": 0.6970954356846473,
+    "Silver Pavilion, Golden Pavilion": 0.6970954356846473,
+    "Japan, Kyoto": 0.6970954356846473
+  }
+}
+==================================================
+User ID: user_3
+{
+  "keywords": {
+    "kyoto": 0.43802400993514556,
+    "temples": 0.43802400993514556,
+    "heritage": 0.43802400993514556,
+    "gardens": 1.0,
+    "elegance": 0.43802400993514556,
+    "pompeii": 0.6409052021526148,
+    "vesuvius": 0.6409052021526148,
+    "excavations": 0.6409052021526148,
+    "antiquity": 0.6409052021526148,
+    "frescoes": 0.6409052021526148,
+    "versailles": 0.5619759900648544,
+    "monarchy": 0.5619759900648544,
+    "nobility": 0.5619759900648544,
+    "rooms": 0.5619759900648544,
+    "antarctica": 0.6205050365668552,
+    "glaciers": 0.6205050365668552,
+    "climate": 0.6205050365668552,
+    "unesco": 0.6205050365668552,
+    "ice": 0.6205050365668552
+  },
+  "topics": {
+    "kyoto": 0.7059153175591532,
+    "roman": 0.6885844748858448,
+    "pompeii": 0.34429223744292237,
+    "mirrors": 0.6037834311806914,
+    "versailles": 0.3018917155903457,
+    "ice": 1.0
+  },
+  "entities": {
+    "Kyoto": 0.6834458644803473,
+    "Silver Pavilion, Golden Pavilion": 0.6834458644803473,
+    "Japan, Kyoto": 0.6834458644803473,
+    "Apollo, Pompeii, Mount Vesuvius, Beneath": 1.0,
+    "UNESCO": 1.0,
+    "Versailles, Louis XIV": 0.8768472906403941,
+    "Hall, Sun, Palace, UNESCO": 0.8768472906403941,
+    "Versailles, French, Paris, Mirrors": 0.8768472906403941,
+    "First, Earth, Antarctica": 0.9681697612732095,
+    "UNESCO, Aurora Australis": 0.9681697612732095,
+    "Antarctica": 0.9681697612732095
+  }
+}
+==================================================

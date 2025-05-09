@@ -1,0 +1,697 @@
+{
+  "user_ids": [
+    "user_1",
+    "user_2",
+    "user_3",
+    "user_4",
+    "user_5",
+    "user_6",
+    "user_7",
+    "user_8",
+    "user_9",
+    "user_10"
+  ],
+  "post_ids": [
+    "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+    "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+    "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+    "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8"
+  ],
+  "activities": [
+    {
+      "userid": "user_1",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T20:10:55.773175+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_1",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T22:50:46.762823+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_1",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-11T13:58:04.274984+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_1",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T16:31:19.395861+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_1",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-11T11:04:11.259483+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_1",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-10T10:58:06.697041+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_1",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T00:31:49.969260+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_1",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T01:51:04.258729+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_1",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T18:50:57.255699+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_2",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T08:57:56.086498+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_2",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T21:15:55.150854+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_2",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T16:33:19.650204+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_2",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T13:47:45.798407+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_2",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T01:50:36.146078+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_3",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T05:02:27.115362+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_3",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-11T18:05:08.017367+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T16:54:15.449580+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T01:20:27.216024+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T23:05:20.478802+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T13:18:31.466779+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_3",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T06:38:34.468256+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_3",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T12:00:59.784695+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T00:00:07.020491+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-14T22:03:46.343677+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_3",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T05:21:51.781845+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_4",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T02:37:40.041315+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_4",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T10:45:00.446448+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_4",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T19:46:34.364326+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_4",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T03:56:39.482695+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_4",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-14T18:44:44.853284+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_4",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T00:58:58.224019+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_4",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T16:53:52.198122+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_4",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T07:44:10.849248+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_5",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T02:58:09.878891+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_5",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T18:20:09.309016+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_5",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T20:00:02.281852+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_5",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T05:51:21.035043+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_5",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T19:55:45.538140+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_5",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T20:09:36.977309+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_6",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T03:39:32.416914+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T18:38:58.842959+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_6",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T00:18:59.588135+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T06:10:47.734837+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T18:50:14.126985+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_6",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T09:28:59.269242+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T05:53:57.520087+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T06:24:10.962826+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_6",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T13:26:29.731370+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_6",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T15:36:16.525112+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_7",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T06:12:13.566672+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_7",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T11:55:12.437493+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_7",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T14:09:50.814568+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_7",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-14T10:44:37.923130+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_7",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T22:20:04.015168+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_7",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-08T15:19:14.373916+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_7",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-11T14:57:03.022755+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_7",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T02:31:06.382683+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_7",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T00:13:39.431849+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_7",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T12:23:47.541953+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_8",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-14T17:41:55.441111+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T04:04:32.159990+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T02:30:35.970302+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_8",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T20:59:07.228604+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_8",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T23:44:47.467499+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T10:16:50.483936+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T09:34:37.241310+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T22:05:59.812468+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T13:31:40.231517+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-10T13:18:11.757907+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_8",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T04:22:28.850357+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_9",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-11T19:57:22.859074+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-14T10:28:30.594100+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_9",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T23:58:37.174741+00:00",
+      "segment": 1
+    },
+    {
+      "userid": "user_9",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T19:11:21.830633+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_9",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-09T15:24:47.601450+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-12T17:43:23.514697+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-10T06:49:48.284906+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T18:51:40.682014+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_9",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T10:30:32.255001+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_9",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-10T21:37:36.331575+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-07T23:27:49.253913+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_9",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T02:53:32.631334+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_9",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T01:34:58.292973+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_10",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-14T03:21:07.523188+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_10",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-10T15:14:29.464488+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_10",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T14:57:51.998561+00:00",
+      "segment": 3
+    },
+    {
+      "userid": "user_10",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T07:00:46.783630+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_10",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T03:18:03.437839+00:00",
+      "segment": 2
+    },
+    {
+      "userid": "user_10",
+      "postid": "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-10T13:48:22.530327+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_10",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T04:59:06.633227+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_10",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-13T14:50:42.968125+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_10",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-09T09:01:38.442700+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_10",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-08T02:38:32.191586+00:00",
+      "segment": 5
+    },
+    {
+      "userid": "user_10",
+      "postid": "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-12T05:34:11.070836+00:00",
+      "segment": 4
+    },
+    {
+      "userid": "user_10",
+      "postid": "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8",
+      "created_at": "2025-04-11T07:28:39.664805+00:00",
+      "segment": null
+    },
+    {
+      "userid": "user_10",
+      "postid": "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8",
+      "created_at": "2025-04-13T06:47:05.856274+00:00",
+      "segment": null
+    }
+  ],
+  "metadata": {
+    "4e9f2d7c-5a1b-4c3e-a6f9-b0d7e4c2f5a8": {
+      "keywords": [
+        "versailles",
+        "monarchy",
+        "nobility",
+        "rooms",
+        "gardens"
+      ],
+      "topics": [
+        "mirrors",
+        "mirrors",
+        "versailles"
+      ],
+      "entities": [
+        {
+          "name": "Versailles, Louis XIV"
+        },
+        {
+          "name": "Hall, Sun, Palace, UNESCO"
+        },
+        {
+          "name": "Versailles, French, Paris, Mirrors"
+        }
+      ]
+    },
+    "6f9e2d7b-3c1a-4e8d-a6f3-c0b7e9d2f5a8": {
+      "keywords": [
+        "pompeii",
+        "vesuvius",
+        "excavations",
+        "antiquity",
+        "frescoes"
+      ],
+      "topics": [
+        "roman",
+        "roman",
+        "pompeii"
+      ],
+      "entities": [
+        {
+          "name": "Apollo, Pompeii, Mount Vesuvius, Beneath"
+        },
+        {
+          "name": "UNESCO"
+        }
+      ]
+    },
+    "8d2e9f7c-1a5b-4c3e-a6f9-b0d7e4c2f5a8": {
+      "keywords": [
+        "kyoto",
+        "temples",
+        "heritage",
+        "gardens",
+        "elegance"
+      ],
+      "topics": [
+        "kyoto",
+        "kyoto",
+        "kyoto"
+      ],
+      "entities": [
+        {
+          "name": "Kyoto"
+        },
+        {
+          "name": "Silver Pavilion, Golden Pavilion"
+        },
+        {
+          "name": "Japan, Kyoto"
+        }
+      ]
+    },
+    "3f7e9d2b-5c1a-4e8d-a6f3-c0b7e9d2f5a8": {
+      "keywords": [
+        "antarctica",
+        "glaciers",
+        "climate",
+        "unesco",
+        "ice"
+      ],
+      "topics": [
+        "ice",
+        "ice",
+        "ice"
+      ],
+      "entities": [
+        {
+          "name": "First, Earth, Antarctica"
+        },
+        {
+          "name": "UNESCO, Aurora Australis"
+        },
+        {
+          "name": "Antarctica"
+        }
+      ]
+    }
+  }
+}
