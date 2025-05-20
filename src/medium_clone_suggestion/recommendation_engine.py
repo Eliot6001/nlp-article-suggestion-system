@@ -128,7 +128,9 @@ class RecommendationSystem:
         cached = self.cache_manager.check_and_update_cache(
             user_id, history, history_hash, now, []
         )
+        #Remove cache for debugging!!!
         if cached:
+            logger.info("Cache hit! Returning cached recommendations.")
             return cached
 
         # 3. Load profile & seen IDs
