@@ -74,8 +74,8 @@ def schedule_user_profile_job():
 @app.get("/{profile_id}/suggest")
 async def suggest(
     profile_id: str,
-    num_recommendations: int = 10,
-    exploration_ratio: float = 0.15,
+    num_recommendations: int = 25,
+    exploration_ratio: float = 0.25,
     articles_per_field: int = 20
 ):
     try:
@@ -113,6 +113,8 @@ async def startup_event():
    )
     
     scheduler.start()
+    # immidiately start on job
+    # await _run_article_pipeline()
 
     logging.info("Schedulers started: articles every 3h, profiles every 1h")
 
