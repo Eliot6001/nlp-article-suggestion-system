@@ -114,7 +114,7 @@ class RecommendationSystem:
     def recommend_articles(
         self,
         user_id: str,
-        num_recommendations: int = 10,
+        num_recommendations: int = 20,
         exploration_ratio: float = 0.2,
         articles_per_field: int = 20
     ) -> List[Dict[str, Any]]:
@@ -128,7 +128,9 @@ class RecommendationSystem:
         cached = self.cache_manager.check_and_update_cache(
             user_id, history, history_hash, now, []
         )
+        #Remove cache for debugging!!!
         if cached:
+            logger.info("Cache hit! Returning cached recommendations.")
             return cached
 
         # 3. Load profile & seen IDs
@@ -203,7 +205,7 @@ class RecommendationSystem:
             extras = (pf_scored[n_pf:] + hist_scored[n_hist:])
             recs.extend(extras[: (N - len(recs)) ])
         if len(recs) < N:
-            field = pf_fields[0] if pf_fields else "general"
+            field = pf_fields[0] if pf_fields else "Technology"
             recs.extend(
                 self.data_access.fetch_random_unseen(user_id, field, N - len(recs))
             )
@@ -244,7 +246,7 @@ class RecommendationSystem:
         for user_id in user_ids:
             results[user_id] = self.recommend_articles(
                 user_id,
-                num_recommendations,
+                20,
                 exploration_ratio,
                 articles_per_field
             )

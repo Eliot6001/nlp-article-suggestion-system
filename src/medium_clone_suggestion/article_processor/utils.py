@@ -17,6 +17,7 @@ dictionary = corpora.Dictionary.load("src/medium_clone_suggestion/article_proces
 
 
 """
+"
 ""Cleaning the HTML 
 """
 def clean_article(article: Dict) -> Dict:
